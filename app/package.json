@@ -1,0 +1,10 @@
+{
+  "name": "lifelong_(deep)_learning",
+  "version": "1.0.0",
+  "description": "node/react application with python deep learning back-end",
+  "scripts": {
+  				"toto": "PATH"},
+  "main": "index.js",
+  "author": "Adel R.",
+  "license": "MIT"
+}
